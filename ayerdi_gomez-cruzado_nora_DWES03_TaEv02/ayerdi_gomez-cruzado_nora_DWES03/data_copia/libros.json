@@ -1,0 +1,60 @@
+{
+    "libros": [
+        {
+            "id": "001",
+            "titulo": "1984",
+            "autor": "George OOOrwell",
+            "genero": "Ciencia ficcion",
+            "disponible": true
+        },
+        {
+            "id": "002",
+            "titulo": "Lagun izoztua",
+            "autor": "Joseba Sarrionandia",
+            "genero": "Narrativa",
+            "disponible": false
+        },
+        {
+            "id": "003",
+            "titulo": "Diez negritos",
+            "autor": "Agatha Christie",
+            "genero": "Novela policiaca",
+            "disponible": true
+        },
+        {
+            "id": "004",
+            "titulo": "Los hombres me explican cosas",
+            "autor": "Rebecca Solnit",
+            "genero": "Ensayo",
+            "disponible": true
+        },
+        {
+            "id": "005",
+            "titulo": "A las ocho en el Bule",
+            "autor": "Xabier Silveira",
+            "genero": "Narrativa",
+            "disponible": true
+        },
+        {
+            "id": "006",
+            "titulo": "Politica del malestar",
+            "autor": "Alicia Valdes",
+            "genero": "Politica",
+            "disponible": false
+        },
+        {
+            "id": "007",
+            "titulo": "Ostegunak",
+            "autor": "Jon Arretxe",
+            "genero": "Ficcion",
+            "disponible": false
+        },
+        {
+            "titulo": "Diez ",
+            "autor": "Agatha Christie",
+            "genero": "Novela policiaca",
+            "disponible": true,
+            "id": 8
+        }
+    ]
+}

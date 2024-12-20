@@ -1,0 +1,60 @@
+{
+    "prestamos": [
+        {
+            "libro_id": "001",
+            "usuario_id": "01",
+            "fecha_inicio": "10-10-2024",
+            "id": "1",
+            "fecha_devolucion": "24-10-2024"
+        },
+        {
+            "libro_id": "006",
+            "usuario_id": "02",
+            "fecha_inicio": "13-12-2024",
+            "id": "2",
+            "fecha_devolucion": "27-12-2024"
+        },
+        {
+            "libro_id": "003",
+            "usuario_id": "03",
+            "fecha_inicio": "15-11-2024",
+            "id": "3",
+            "fecha_devolucion": "30-11-2024"
+        },
+        {
+            "libro_id": "004",
+            "usuario_id": "04",
+            "fecha_inicio": "20-09-2024",
+            "id": "4",
+            "fecha_devolucion": "05-10-2024"
+        },
+        {
+            "libro_id": "005",
+            "usuario_id": "05",
+            "fecha_inicio": "01-10-2024",
+            "id": "5",
+            "fecha_devolucion": "15-10-2024"
+        },
+        {
+            "libro_id": "007",
+            "usuario_id": "06",
+            "fecha_inicio": "25-10-2024",
+            "id": "6",
+            "fecha_devolucion": "10-11-2024"
+        },
+        {
+            "libro_id": "002",
+            "usuario_id": "01",
+            "fecha_inicio": "19-12-2024",
+            "id": "7",
+            "fecha_devolucion": "19-12-2024"
+        },
+        {
+            "libro_id": "002",
+            "usuario_id": "02",
+            "fecha_inicio": "20-12-2024",
+            "id": "8",
+            "fecha_devolucion": "20-12-2024"
+        }
+    ]
+}

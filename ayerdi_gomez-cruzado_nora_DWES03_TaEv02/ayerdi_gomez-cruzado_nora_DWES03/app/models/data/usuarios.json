@@ -1,0 +1,53 @@
+{
+    "usuarios": [
+        {
+            "id": "01",
+            "usuario": "nayerdi",
+            "password": "1234",
+            "rol": "administrador",
+            "sesion_iniciada": true
+        },
+        {
+            "id": "02",
+            "usuario": "iarana",
+            "password": "4321",
+            "rol": "usuario",
+            "sesion_iniciada": false
+        },
+        {
+            "id": "03",
+            "usuario": "aetxeberria",
+            "password": "2468",
+            "rol": "usuario",
+            "sesion_iniciada": false
+        },
+        {
+            "id": "04",
+            "usuario": "jarretxe",
+            "password": "1357",
+            "rol": "usuario",
+            "sesion_iniciada": false
+        },
+        {
+            "id": "05",
+            "usuario": "jurrutia",
+            "password": "5678",
+            "rol": "usuario",
+            "sesion_iniciada": false
+        },
+        {
+            "id": "06",
+            "usuario": "mgarcia",
+            "password": "8765",
+            "rol": "usuario",
+            "sesion_iniciada": false
+        },
+        {
+            "id": "07",
+            "usuario": "molasagasti",
+            "password": "1358",
+            "rol": "usuario",
+            "sesion_iniciada": false
+        }
+    ]
+}

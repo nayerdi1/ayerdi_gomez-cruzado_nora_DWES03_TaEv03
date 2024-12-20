@@ -1,0 +1,72 @@
+{
+    "usuarios": [
+        {
+            "id": "01",
+            "usuario": "nayerdi",
+            "contrasenia": "1234",
+            "rol": "administrador",
+            "sesion_iniciada": true,
+            "historial_prestamos": [
+                {
+                    "id_libro": "001",
+                    "fecha_inicio": "10-10-2024",
+                    "fecha_fin": "24-10-2024"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "usuario": "iarana",
+            "contrasenia": "4321",
+            "rol": "usuario",
+            "sesion_iniciada": false,
+            "historial_prestamos": [
+                {
+                    "id_libro": "006",
+                    "fecha_inicio": "13-12-2024",
+                    "fecha_fin": "27-12-2024"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "usuario": "aetxeberria",
+            "contrasenia": "2468",
+            "rol": "usuario",
+            "sesion_iniciada": false,
+            "historial_prestamos": []
+        },
+        {
+            "id": "04",
+            "usuario": "jarretxe",
+            "contrasenia": "1357",
+            "rol": "usuario",
+            "sesion_iniciada": false,
+            "historial_prestamos": []
+        },
+        {
+            "id": "05",
+            "usuario": "jurrutia",
+            "contrasenia": "5678",
+            "rol": "usuario",
+            "sesion_iniciada": false,
+            "historial_prestamos": []
+        },
+        {
+            "id": "06",
+            "usuario": "mgarcia",
+            "contrasenia": "8765",
+            "rol": "usuario",
+            "sesion_iniciada": false,
+            "historial_prestamos": []
+        },
+        {
+            "id": "07",
+            "usuario": "molasagasti",
+            "contrasenia": "1358",
+            "rol": "usuario",
+            "sesion_iniciada": false,
+            "historial_prestamos": []
+        }
+    ]
+}
